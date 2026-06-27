@@ -40,7 +40,7 @@ export default function ContactPage() {
             </a>
             
             <a 
-              href="tel:+923167967171" 
+              href="tel:+923016866308" 
               className="group inline-flex items-center gap-3 bg-white/10 backdrop-blur-sm text-white border-2 border-white/30 px-6 py-3 rounded-xl font-semibold hover:bg-white/20 hover:shadow-lg transition-all hover:scale-105"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -98,9 +98,8 @@ export default function ContactPage() {
           </div>
         </a>
 
-        {/* Phone Card */}
         <a 
-          href="tel:+923167967171"
+          href="tel:+923016866308"
           className="group bg-white rounded-2xl p-6 border-2 border-gray-200 hover:border-cyan-500 hover:shadow-xl transition-all duration-300"
         >
           <div className="flex items-start gap-4">
@@ -111,7 +110,7 @@ export default function ContactPage() {
             </div>
             <div className="flex-1">
               <h3 className="text-lg font-bold text-gray-900 mb-1 group-hover:text-cyan-600 transition-colors">Cell Phone</h3>
-              <p className="text-cyan-600 font-semibold">+92 316 7967171</p>
+              <p className="text-cyan-600 font-semibold">+92 301 6866308</p>
               <p className="text-sm text-gray-500 mt-2">Call us directly</p>
             </div>
           </div>
