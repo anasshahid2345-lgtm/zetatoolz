@@ -1,10 +1,15 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
+import { useState } from 'react';
 import { useCart } from '../context/CartContext';
 
 export default function ProductCard({ product }) {
   const { addToCart } = useCart();
+  const [imgSrc, setImgSrc] = useState(
+    product.image || 'https://placehold.co/400x400/f3f4f6/6b7280?text=' + encodeURIComponent(product.name)
+  );
 
   const handleEmailInquiry = () => {
     const today = new Date().toLocaleDateString('en-US', { 
@@ -48,14 +53,13 @@ Customer`;
     <div className="bg-white rounded-lg overflow-hidden border border-gray-200 hover:shadow-xl transition-shadow duration-300 flex flex-col h-full">
       {/* Product Image */}
       <Link href={`/products/${product.id}`} className="h-56 bg-gray-100 relative overflow-hidden group block">
-        <img 
-          src={product.image || 'https://placehold.co/400x400/f3f4f6/6b7280?text=' + encodeURIComponent(product.name)} 
+        <Image 
+          src={imgSrc} 
           alt={product.name}
-          className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
-          onError={(e) => {
-              e.target.style.display = 'none';
-              e.target.parentElement.children[0].style.display = 'flex';
-          }}
+          fill
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          className="object-cover transition-transform duration-500 group-hover:scale-110"
+          onError={() => setImgSrc('https://placehold.co/400x400/f3f4f6/6b7280?text=No+Image')}
         />
       </Link>
       

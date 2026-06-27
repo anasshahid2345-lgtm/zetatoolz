@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { products } from '../../data/products';
 import { useCart } from '../../context/CartContext';
 
@@ -12,6 +13,7 @@ export default function ProductDetailClient({ id }) {
   const [selectedVariant, setSelectedVariant] = useState(null);
   const [isZoomed, setIsZoomed] = useState(false);
   const [zoomPosition, setZoomPosition] = useState({ x: 0, y: 0 });
+  const [imageErrors, setImageErrors] = useState({});
 
   useEffect(() => {
     // Find product by ID
@@ -132,18 +134,26 @@ Customer`;
               onMouseEnter={() => setIsZoomed(true)}
               onMouseLeave={() => setIsZoomed(false)}
             >
-              <img
-                src={imageGallery[selectedImage]}
-                alt={product.name}
-                className="w-full h-full object-cover transition-transform duration-200 ease-out"
-                style={{
-                  transform: isZoomed ? 'scale(2)' : 'scale(1)',
-                  transformOrigin: isZoomed ? `${zoomPosition.x}% ${zoomPosition.y}%` : 'center'
-                }}
-                onError={(e) => {
-                  e.target.src = 'https://placehold.co/800x800/f3f4f6/6b7280?text=' + encodeURIComponent(product.name);
-                }}
-              />
+              {imageGallery[selectedImage] && (
+                <Image
+                  src={
+                    imageErrors[imageGallery[selectedImage]]
+                      ? 'https://placehold.co/800x800/f3f4f6/6b7280?text=' + encodeURIComponent(product?.name || '')
+                      : imageGallery[selectedImage]
+                  }
+                  alt={product?.name || 'Product Image'}
+                  fill
+                  unoptimized
+                  className="object-cover transition-transform duration-200 ease-out"
+                  style={{
+                    transform: isZoomed ? 'scale(2)' : 'scale(1)',
+                    transformOrigin: isZoomed ? `${zoomPosition.x}% ${zoomPosition.y}%` : 'center'
+                  }}
+                  onError={() => {
+                    setImageErrors(prev => ({ ...prev, [imageGallery[selectedImage]]: true }));
+                  }}
+                />
+              )}
               
               {/* Zoom indicator */}
               {isZoomed && (
@@ -162,18 +172,20 @@ Customer`;
                 <button
                   key={idx}
                   onClick={() => setSelectedImage(idx)}
-                  className={`aspect-square rounded-lg overflow-hidden border-2 transition-all ${
+                  className={`aspect-square rounded-lg overflow-hidden border-2 transition-all relative ${
                     selectedImage === idx 
                       ? 'border-cyan-500 shadow-lg scale-105' 
                       : 'border-gray-200 hover:border-gray-300 hover:shadow-md'
                   }`}
                 >
-                  <img
-                    src={img}
-                    alt={`${product.name} view ${idx + 1}`}
-                    className="w-full h-full object-cover"
-                    onError={(e) => {
-                      e.target.src = 'https://placehold.co/400x400/f3f4f6/6b7280?text=View+' + (idx + 1);
+                  <Image
+                    src={imageErrors[img] ? 'https://placehold.co/400x400/f3f4f6/6b7280?text=View+' + (idx + 1) : img}
+                    alt={`${product?.name || 'Product'} view ${idx + 1}`}
+                    fill
+                    unoptimized
+                    className="object-cover"
+                    onError={() => {
+                      setImageErrors(prev => ({ ...prev, [img]: true }));
                     }}
                   />
                 </button>
