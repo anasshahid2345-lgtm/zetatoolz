@@ -299,6 +299,7 @@ export default function Home() {
                         src={prod.image || '/placeholder.jpg'}
                         alt={prod.name}
                         fill
+                        unoptimized
                         className="object-cover group-hover:scale-110 transition-transform duration-500"
                       />
                       <div className={`absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/85 via-black/35 to-transparent ${idx === 1 ? 'p-6' : 'p-4'}`}>

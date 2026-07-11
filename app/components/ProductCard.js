@@ -57,6 +57,7 @@ Customer`;
           src={imgSrc} 
           alt={product.name}
           fill
+          unoptimized
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           className="object-cover transition-transform duration-500 group-hover:scale-110"
           onError={() => setImgSrc('https://placehold.co/400x400/f3f4f6/6b7280?text=No+Image')}

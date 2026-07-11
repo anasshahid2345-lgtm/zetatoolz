@@ -189,6 +189,7 @@ Best regards,
                   src="/ZetaToolsMainLogo.svg" 
                   alt="ZetaToolz Logo" 
                   fill
+                  unoptimized
                   className="object-contain object-left"
                   priority
                 />

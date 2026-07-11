@@ -17,6 +17,7 @@ export default function Footer() {
                   src="/ZetaToolsMainLogo.svg" 
                   alt="ZetaToolz Logo" 
                   fill
+                  unoptimized
                   className="object-contain object-left"
                 />
               </div>
