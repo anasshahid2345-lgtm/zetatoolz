@@ -6059,6 +6059,18 @@
                     "name": "Beauty kits",
                     "description": "",
                     "subsubcategories": []
+                },
+                {
+                    "slug": "dragon-handle-scissors",
+                    "name": "Dragon Handle Scissors",
+                    "description": "",
+                    "subsubcategories": []
+                },
+                {
+                    "slug": "pet-grooming-scissors",
+                    "name": "Pet Grooming Scissors",
+                    "description": "",
+                    "subsubcategories": []
                 }
             ]
         },
