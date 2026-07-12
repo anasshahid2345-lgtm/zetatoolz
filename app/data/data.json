@@ -9458,15 +9458,15 @@
                             "products": [
                                 {
                                     "id": "ZT-01-193",
-                                    "name": "Bone Crusher",
-                                    "description": "Bone Crusher",
-                                    "image": "/images/categories/dental-instruments/subcategories/oral-surgery/subsubcategories/bone-instruments/products/ZT-01-193/1772798883481-Bone-Crusher-_2_.jpg",
+                                    "name": "Dental Bone Crusher",
+                                    "description": "High-quality dental bone crusher designed to grind autogenous bone blocks into uniform granules for bone grafting and implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/oral-surgery/subsubcategories/bone-instruments/products/ZT-01-193/1783338309876-Bone-Crusher-_2_.jpg",
                                     "images": [
-                                        "/images/categories/dental-instruments/subcategories/oral-surgery/subsubcategories/bone-instruments/products/ZT-01-193/1772798883481-Bone-Crusher-_2_.jpg"
+                                        "/images/categories/dental-instruments/subcategories/oral-surgery/subsubcategories/bone-instruments/products/ZT-01-193/1783338309876-Bone-Crusher-_2_.jpg"
                                     ],
                                     "variants": [],
                                     "details": {
-                                        "overview": "Bone Crusher",
+                                        "overview": "High-quality dental bone crusher designed to grind autogenous bone blocks into uniform granules for bone grafting and implant procedures.",
                                         "specifications": {},
                                         "features": []
                                     }
@@ -16484,6 +16484,28 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "slug": "orthodontic-pliers-stand",
+                            "name": "Orthodontic Pliers Stand",
+                            "description": "",
+                            "products": [
+                                {
+                                    "id": "ZT-04-54",
+                                    "name": "Orthodontic Pliers Stand",
+                                    "description": "Orthodontic Pliers Stand",
+                                    "image": "/images/categories/dental-instruments/subcategories/orthodontic-instruments/subsubcategories/orthodontic-pliers-stand/products/ZT-04-54/1783334858487-Orthodontic-Pliers-Stand.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/orthodontic-instruments/subsubcategories/orthodontic-pliers-stand/products/ZT-04-54/1783334858487-Orthodontic-Pliers-Stand.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Orthodontic Pliers Stand",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -17667,49 +17689,1190 @@
                             "slug": "excavators",
                             "name": "Excavators",
                             "description": "Excavators are precision dental instruments designed for the removal of decayed tooth structure and soft carious dentin during restorative procedures. They provide excellent control for accurate and conservative cavity preparation.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-22-01",
+                                    "name": "Clinic Excavator Stainless Steel for 1.5mm and 1.8mm Caries Excavation",
+                                    "description": "Size: 1.5mm, 1.8mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-01/1783321967501-Clinic-Excavator-Stainless-Steel-for-1.5mm-and-1.8mm-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-01/1783321967501-Clinic-Excavator-Stainless-Steel-for-1.5mm-and-1.8mm-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1.5mm, 1.8mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-02",
+                                    "name": "Dental Clinic Excavator for 1mm and 1.5mm Caries Excavation",
+                                    "description": "Size: 1mm, 1.5mm\n\n",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-02/1783322057945-Dental-Clinic-Excavator-for-1mm-and-1.5mm-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-02/1783322057945-Dental-Clinic-Excavator-for-1mm-and-1.5mm-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm\n\n",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-03",
+                                    "name": "Dental Excavator Double Sided for 1.0-2.1mm Caries Excavation",
+                                    "description": "Sizes: Double Ended Excavator 33L 2.1mm, Double Ended Excavator 31L 1.0mm, Double Ended Excavator 38/39 1.1mm, Double Ended Excavator EXC24 1.8mm, Double Ended Excavator EXC23 1.5mm, Double Ended Excavator ECX22 1.2mm, Double Ended Excavator EXC21 1.0mm, Double Ended Excavator 35L 1.3mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-03/1783322266679-Dental-Excavator-Double-Sided-for-1.0-2.1mm-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-03/1783322266679-Dental-Excavator-Double-Sided-for-1.0-2.1mm-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes: Double Ended Excavator 33L 2.1mm, Double Ended Excavator 31L 1.0mm, Double Ended Excavator 38/39 1.1mm, Double Ended Excavator EXC24 1.8mm, Double Ended Excavator EXC23 1.5mm, Double Ended Excavator ECX22 1.2mm, Double Ended Excavator EXC21 1.0mm, Double Ended Excavator 35L 1.3mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-04",
+                                    "name": "Dental Excavator Double Sided for 1.0-2.1mm",
+                                    "description": "Size: Double Ended Excavator 33L 2.1mm, Double Ended Excavator 31L 1.0mm, Double Ended Excavator 38/39 1.1mm, Double Ended Excavator EXC24 1.8mm, Double Ended Excavator EXC23 1.5mm, Double Ended Excavator ECX22 1.2mm, Double Ended Excavator EXC21 1.0mm, Double Ended Excavator 35L 1.3mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-04/1783322435773-Dental-Excavator-Double-Sided-for-1.0-2.1mm.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-04/1783322435773-Dental-Excavator-Double-Sided-for-1.0-2.1mm.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: Double Ended Excavator 33L 2.1mm, Double Ended Excavator 31L 1.0mm, Double Ended Excavator 38/39 1.1mm, Double Ended Excavator EXC24 1.8mm, Double Ended Excavator EXC23 1.5mm, Double Ended Excavator ECX22 1.2mm, Double Ended Excavator EXC21 1.0mm, Double Ended Excavator 35L 1.3mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22--05",
+                                    "name": "Dental Stainless Steel Excavator for 1.5mm Caries Excavation",
+                                    "description": "Size: 1.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22--05/1783322525395-Dental-Stainless-Steel-Excavator-for-1.5mm-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22--05/1783322525395-Dental-Stainless-Steel-Excavator-for-1.5mm-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-06",
+                                    "name": "Excavator Dental Instrument for 1.0-3.5mm Caries Excavation",
+                                    "description": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-06/1783322598259-Excavator-Dental-Instrument-for-1.0-3.5mm-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-06/1783322598259-Excavator-Dental-Instrument-for-1.0-3.5mm-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22--07",
+                                    "name": "Excavator Double Side for 2.4mm Caries Excavation and Cavity Cleanout",
+                                    "description": "Size: 2.4mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22--07/1783322706921-Excavator-Double-Side-for-2.4mm-Caries-Excavation-and-Cavity-Cleanout.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22--07/1783322706921-Excavator-Double-Side-for-2.4mm-Caries-Excavation-and-Cavity-Cleanout.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.4mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-08",
+                                    "name": "Excavator for Dentist Clinic with 1.5mm Spoon Tip for Caries Excavation",
+                                    "description": "Size: 1.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-08/1783322760521-Excavator-for-Dentist-Clinic-with-1.5mm-Spoon-Tip-for-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-08/1783322760521-Excavator-for-Dentist-Clinic-with-1.5mm-Spoon-Tip-for-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-09",
+                                    "name": "Excavator for Dentist with 1.5mm Spoon Tip for Caries Excavation",
+                                    "description": "Size: 1.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-09/1783322820364-Excavator-for-Dentist-with-1.5mm-Spoon-Tip-for-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-09/1783322820364-Excavator-for-Dentist-with-1.5mm-Spoon-Tip-for-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-10",
+                                    "name": "Excavator Orthodontic 1mm to 4mm for Restorative and Adhesive Cleanout",
+                                    "description": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-10/1783322937928-Excavator-Orthodontic-1mm-to-4mm-for-Restorative-and-Adhesive-Cleanout.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-10/1783322937928-Excavator-Orthodontic-1mm-to-4mm-for-Restorative-and-Adhesive-Cleanout.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-11",
+                                    "name": "Excavator Orthodontic for 1.0-3.5mm Restorative and Adhesive Cleanout",
+                                    "description": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-11/1783322997052-Excavator-Orthodontic-for-1.0-3.5mm-Restorative-and-Adhesive-Cleanout.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-11/1783322997052-Excavator-Orthodontic-for-1.0-3.5mm-Restorative-and-Adhesive-Cleanout.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-12",
+                                    "name": "Excavator Orthodontic Instrument for 1.0-3.5mm Caries and Adhesive Cleanout",
+                                    "description": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-12/1783323078747-Excavator-Orthodontic-Instrument-for-1.0-3.5mm-Caries-and-Adhesive-Cleanout.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-12/1783323078747-Excavator-Orthodontic-Instrument-for-1.0-3.5mm-Caries-and-Adhesive-Cleanout.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-13",
+                                    "name": "Excavator Stainless Steel for 1.0-3.5mm Caries Excavation",
+                                    "description": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-13/1783323157270-Excavator-Stainless-Steel-for-1.0-3.5mm-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-13/1783323157270-Excavator-Stainless-Steel-for-1.0-3.5mm-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-14",
+                                    "name": "Excavator Surgical Instrument for 1.0-3.5mm Caries Excavation",
+                                    "description": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-14/1783323230313-Excavator-Surgical-Instrument-for-1.0-3.5mm-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-14/1783323230313-Excavator-Surgical-Instrument-for-1.0-3.5mm-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-15",
+                                    "name": "German Dental Excavator for 1.0-3.5mm Caries Excavation",
+                                    "description": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-15/1783323276873-German-Dental-Excavator-for-1.0-3.5mm-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-15/1783323276873-German-Dental-Excavator-for-1.0-3.5mm-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-16",
+                                    "name": "Orthodontic Excavator for 1mm and 4mm Caries and Adhesive Cleanout",
+                                    "description": "Size: 1mm to 4mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-16/1783323348990-Orthodontic-Excavator-for-1mm-and-4mm-Caries-and-Adhesive-Cleanout.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-16/1783323348990-Orthodontic-Excavator-for-1mm-and-4mm-Caries-and-Adhesive-Cleanout.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm to 4mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-17",
+                                    "name": "Orthodontic Excavator Stainless Steel for 1mm and 4mm Adhesive Cleanout",
+                                    "description": "Size: 1mm to 4mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-17/1783323409659-Orthodontic-Excavator-Stainless-Steel-for-1mm-and-4mm-Adhesive-Cleanout.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-17/1783323409659-Orthodontic-Excavator-Stainless-Steel-for-1mm-and-4mm-Adhesive-Cleanout.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm to 4mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-18",
+                                    "name": "Orthodontic Tooth Excavator for 1.0-3.5mm Restorative Cleanout",
+                                    "description": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-18/1783323458005-Orthodontic-Tooth-Excavator-for-1.0-3.5mm-Restorative-Cleanout.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ZT-22-18/1783323458005-Orthodontic-Tooth-Excavator-for-1.0-3.5mm-Restorative-Cleanout.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-19",
+                                    "name": "Pro Dental Excavator for 1.0-3.5mm Caries Excavation",
+                                    "description": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-19/1783323525444-Pro-Dental-Excavator-for-1.0-3.5mm-Caries-Excavation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-19/1783323525444-Pro-Dental-Excavator-for-1.0-3.5mm-Caries-Excavation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1mm, 1.5mm, 2mm, 3.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-20",
+                                    "name": "Tooth Excavator Stainless Steel for Caries Excavation and Cavity Cleanout",
+                                    "description": "Tooth Excavator Stainless Steel for Caries Excavation and Cavity Cleanout",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-20/1783323572399-Tooth-Excavator-Stainless-Steel-for-Caries-Excavation-and-Cavity-Cleanout.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/excavators/products/ ZT-22-20/1783323572399-Tooth-Excavator-Stainless-Steel-for-Caries-Excavation-and-Cavity-Cleanout.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Tooth Excavator Stainless Steel for Caries Excavation and Cavity Cleanout",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         },
                         {
                             "slug": "burnishers",
                             "name": "Burnishers",
                             "description": "Burnishers are precision restorative instruments designed for shaping, smoothing, and polishing dental restorative materials. They help achieve well-contoured restorations with improved adaptation and surface finish.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": " ZT-22-21",
+                                    "name": "Ball Burnisher for Dental Restoration Smoothing and Polishing",
+                                    "description": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ ZT-22-21/1783323818461-Ball-Burnisher-for-Dental-Restoration-Smoothing-and-Polishing.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ ZT-22-21/1783323818461-Ball-Burnisher-for-Dental-Restoration-Smoothing-and-Polishing.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-22",
+                                    "name": "Burnisher 45 Degree for Precise Dental Restoration Finishing",
+                                    "description": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ ZT-22-22/1783323918767-Burnisher-45-Degree-for-Precise-Dental-Restoration-Finishing.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ ZT-22-22/1783323918767-Burnisher-45-Degree-for-Precise-Dental-Restoration-Finishing.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-23",
+                                    "name": "Burnisher Angled for Precision Dental Restoration Finishing",
+                                    "description": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ ZT-22-23/1783323973519-Burnisher-Angled-for-Precision-Dental-Restoration-Finishing.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ ZT-22-23/1783323973519-Burnisher-Angled-for-Precision-Dental-Restoration-Finishing.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": " ZT-22-24",
+                                    "name": "Burnisher Multiple Sizes for Precision Dental Restoration Finishing",
+                                    "description": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ ZT-22-24/1783324045931-Burnisher-Multiple-Sizes-for-Precision-Dental-Restoration-Finishing.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ ZT-22-24/1783324045931-Burnisher-Multiple-Sizes-for-Precision-Dental-Restoration-Finishing.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-25",
+                                    "name": "Dental Ball Burnisher for Composite and Amalgam Restoration Finishing",
+                                    "description": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-25/1783324213652-Dental-Ball-Burnisher-for-Composite-and-Amalgam-Restoration-Finishing.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-25/1783324213652-Dental-Ball-Burnisher-for-Composite-and-Amalgam-Restoration-Finishing.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-26",
+                                    "name": "Dental Burnisher for Clinic Use and Restorative Finishing Procedures",
+                                    "description": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-26/1783324306213-Dental-Burnisher-for-Clinic-Use-and-Restorative-Finishing-Procedures.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-26/1783324306213-Dental-Burnisher-for-Clinic-Use-and-Restorative-Finishing-Procedures.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-27",
+                                    "name": "Dental Burnisher for Precision Restoration Smoothing and Polishing",
+                                    "description": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-27/1783324372810-Dental-Burnisher-for-Precision-Restoration-Smoothing-and-Polishing.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-27/1783324372810-Dental-Burnisher-for-Precision-Restoration-Smoothing-and-Polishing.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-28",
+                                    "name": "Dental Burnisher",
+                                    "description": "Size: 2mm and 5.5/3.5, 4/2.5mm and 5.5/3mm\n",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-28/1783324432980-Dental-Burnisher.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-28/1783324432980-Dental-Burnisher.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2mm and 5.5/3.5, 4/2.5mm and 5.5/3mm\n",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-29",
+                                    "name": "Dical Instrument",
+                                    "description": "Sizes: 8\" x 6\",  9\" x 6\", 11\" x 7\",  12\"x 10\", 12\" x 15\"",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-29/1783324513537-Dical-Instrument.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-29/1783324513537-Dical-Instrument.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes: 8\" x 6\",  9\" x 6\", 11\" x 7\",  12\"x 10\", 12\" x 15\"",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-30",
+                                    "name": "Orthodontic Ball Burnisher for Precision Dental Finishing and Contouring",
+                                    "description": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-30/1783324560143-Orthodontic-Ball-Burnisher-for-Precision-Dental-Finishing-and-Contouring.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-30/1783324560143-Orthodontic-Ball-Burnisher-for-Precision-Dental-Finishing-and-Contouring.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.1 mm - 1.3 mm, 2.4 mm – 1.6 mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-31",
+                                    "name": "Orthodontic Burnisher",
+                                    "description": "Size: 1.3mm, 1.8mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-31/1783324612015-Orthodontic-Burnisher.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/burnishers/products/ZT-22-31/1783324612015-Orthodontic-Burnisher.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1.3mm, 1.8mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         },
                         {
                             "slug": "amalgam-carriers",
                             "name": "Amalgam Carriers",
                             "description": "Amalgam Carriers are restorative instruments designed for the controlled transfer and placement of amalgam into prepared tooth cavities. They ensure efficient material handling and accurate delivery during restorative procedures.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-22-32",
+                                    "name": "Amalgam Carrier Double Ended Large",
+                                    "description": "Size: Large",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-32/1783324832236-Amalgam-Carrier-Double-Ended-Large.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-32/1783324832236-Amalgam-Carrier-Double-Ended-Large.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: Large",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-33",
+                                    "name": "Amalgam Carrier Gun Syringe with Straight and Curved Restorative Placement Options",
+                                    "description": "Size: Straight 7\" (17.8cm), Straight 8\" (20cm), Straight 9\" (22.9cm), Straight 11\" (28cm), Curved 5 3/4\" (14.6cm), Curved 7\" (17.8cm), Curved 8\" (20cm), Curved 9\" (22.9cm), Curved 10\" (25cm), Straight 5 3/4\" (14.6cm)",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-33/1783324971196-Amalgam-Carrier-Gun-Syringe-with-Straight-and-Curved-Restorative-Placement-Options.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-33/1783324971196-Amalgam-Carrier-Gun-Syringe-with-Straight-and-Curved-Restorative-Placement-Options.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: Straight 7\" (17.8cm), Straight 8\" (20cm), Straight 9\" (22.9cm), Straight 11\" (28cm), Curved 5 3/4\" (14.6cm), Curved 7\" (17.8cm), Curved 8\" (20cm), Curved 9\" (22.9cm), Curved 10\" (25cm), Straight 5 3/4\" (14.6cm)",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-34",
+                                    "name": "Amalgam Carrier Medium 2mm",
+                                    "description": "Size: 2.0mm, Size: 2.0mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-34/1783325041713-Amalgam-Carrier-Medium-2mm.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-34/1783325041713-Amalgam-Carrier-Medium-2mm.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2.0mm, Size: 2.0mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-35",
+                                    "name": "Amalgam Carrier Medium",
+                                    "description": "Sizes: Large -2.8mm, Medium- 2.0mm\n",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-35/1783325097091-Amalgam-Carrier-Medium.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-35/1783325097091-Amalgam-Carrier-Medium.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes: Large -2.8mm, Medium- 2.0mm\n",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-36",
+                                    "name": "Amalgam Carrier Regular Large",
+                                    "description": "Size: Large",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-36/1783325141794-Amalgam-Carrier-Regular-Large.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carriers/products/ZT-22-36/1783325141794-Amalgam-Carrier-Regular-Large.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: Large",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         },
                         {
                             "slug": "amalgam-carvers",
                             "name": "Amalgam Carvers",
                             "description": "Amalgam Carvers are precision restorative instruments designed for carving, shaping, and contouring amalgam restorations. They help achieve accurate anatomy, smooth margins, and a refined surface finish.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-22-37",
+                                    "name": "Amalgam Carver Frahm",
+                                    "description": "Size: 3/6",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-37/1783330409332-Amalgam-Carver-Frahm.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-37/1783330409332-Amalgam-Carver-Frahm.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 3/6",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-38",
+                                    "name": "Amalgam Carver Interproximal off Angle",
+                                    "description": "Size: 604/2",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-38/1783330538397-Amalgam-Carver-Interproximal-off-Angle.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-38/1783330538397-Amalgam-Carver-Interproximal-off-Angle.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 604/2",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-39",
+                                    "name": "Amalgam Carver Interproximal",
+                                    "description": "Sizes: 9cm, 10cm, 11cm, 12cm, 14cm, 15cm, 16cm, 18cm, 20cm, 23cm, 24cm, 28cm, 30cm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-39/1783330668611-Amalgam-Carver-Interproximal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-39/1783330668611-Amalgam-Carver-Interproximal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes: 9cm, 10cm, 11cm, 12cm, 14cm, 15cm, 16cm, 18cm, 20cm, 23cm, 24cm, 28cm, 30cm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-40",
+                                    "name": "Amalgam Carver SHO",
+                                    "description": "Amalgam Carver SHO",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-40/1783330702602-Amalgam-Carver-SHO.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-40/1783330702602-Amalgam-Carver-SHO.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Amalgam Carver SHO",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-41",
+                                    "name": "Amalgam Carver SHO-A",
+                                    "description": "Amalgam Carver SHO-A",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-41/1783330733009-Amalgam-Carver-SHO-A.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-41/1783330733009-Amalgam-Carver-SHO-A.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Amalgam Carver SHO-A",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-42",
+                                    "name": "Amalgam Carver USC",
+                                    "description": "Sizes: 9cm, 10cm, 11cm, 12cm, 14cm, 15cm, 16cm, 18cm, 20cm, 23cm, 24cm, 28cm, 30cm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-42/1783330769802-Amalgam-Carver-USC.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-42/1783330769802-Amalgam-Carver-USC.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes: 9cm, 10cm, 11cm, 12cm, 14cm, 15cm, 16cm, 18cm, 20cm, 23cm, 24cm, 28cm, 30cm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-43",
+                                    "name": "Amalgam Carver",
+                                    "description": "Size: 1.5mm and 1.9mm, 2.1mm and 2.4mm, 2.6mm and 3.1mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-43/1783330790454-Amalgam-Carver.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-43/1783330790454-Amalgam-Carver.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 1.5mm and 1.9mm, 2.1mm and 2.4mm, 2.6mm and 3.1mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-45",
+                                    "name": "Orthodontic Amalgam Carver",
+                                    "description": "Size: 6\"\n",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-45/1783330964566-Orthodontic-Amalgam-Carver.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-carvers/products/ZT-22-45/1783330964566-Orthodontic-Amalgam-Carver.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 6\"\n",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         },
                         {
                             "slug": "amalgam-pluggers",
                             "name": "Amalgam Pluggers",
                             "description": "Amalgam Pluggers are restorative instruments designed for condensing and packing amalgam into prepared tooth cavities. They ensure proper adaptation and compaction for durable, well-sealed restorations.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-22-46",
+                                    "name": "Amalgam Plugger Back Action for Precise Condensation and Material Placement",
+                                    "description": "Sizes: 1.5mm/2mm, 2mm/2.75mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-46/1783331124441-Amalgam-Plugger-Back-Action-for-Precise-Condensation-and-Material-Placement.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-46/1783331124441-Amalgam-Plugger-Back-Action-for-Precise-Condensation-and-Material-Placement.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes: 1.5mm/2mm, 2mm/2.75mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-47",
+                                    "name": "Amalgam Plugger Clinic for Precise Restorative Material Condensation",
+                                    "description": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-47/1783331144343-Amalgam-Plugger-Clinic-for-Precise-Restorative-Material-Condensation.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-47/1783331144343-Amalgam-Plugger-Clinic-for-Precise-Restorative-Material-Condensation.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-48",
+                                    "name": "Amalgam Plugger for Precise Dental Condensation and Material Placement",
+                                    "description": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-48/1783331182503-Amalgam-Plugger-for-Precise-Dental-Condensation-and-Material-Placement.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-48/1783331182503-Amalgam-Plugger-for-Precise-Dental-Condensation-and-Material-Placement.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-49",
+                                    "name": "Amalgam Plugger Instrument for Precise Dental Condensation and Placement",
+                                    "description": "Sizes: 1.2mm/1.5mm, 1.9mm/2.2mm, 2.4mm/2.7mm, 2.8mm/3.1mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-49/1783331210718-Amalgam-Plugger-Instrument-for-Precise-Dental-Condensation-and-Placement.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-49/1783331210718-Amalgam-Plugger-Instrument-for-Precise-Dental-Condensation-and-Placement.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes: 1.2mm/1.5mm, 1.9mm/2.2mm, 2.4mm/2.7mm, 2.8mm/3.1mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-50",
+                                    "name": "Amalgam Plugger Multi Sizes for Precise Condensation and Material Placement",
+                                    "description": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-50/1783331230947-Amalgam-Plugger-Multi-Sizes-for-Precise-Condensation-and-Material-Placement.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-50/1783331230947-Amalgam-Plugger-Multi-Sizes-for-Precise-Condensation-and-Material-Placement.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-51",
+                                    "name": "Amalgam Plugger Perpendicular – Dental Restorative Instrument",
+                                    "description": "Sizes :1mm - 1.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-51/1783331249906-Amalgam-Plugger-Perpendicular-_-Dental-Restorative-Instrument.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-51/1783331249906-Amalgam-Plugger-Perpendicular-_-Dental-Restorative-Instrument.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes :1mm - 1.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-53",
+                                    "name": "Amalgam Plugger Sickle Scaler – Double Ended Dental Instrument",
+                                    "description": "Sizes: 0.5mmm - 1.0mm, 1.0mmm - 1.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-53/1783331267491-Amalgam-Plugger-Sickle-Scaler-_-Double-Ended-Dental-Instrument.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-53/1783331267491-Amalgam-Plugger-Sickle-Scaler-_-Double-Ended-Dental-Instrument.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes: 0.5mmm - 1.0mm, 1.0mmm - 1.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-54",
+                                    "name": "Best Amalgam Plugger for Precise Dental Condensation and Placement",
+                                    "description": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-54/1783331289020-Best-Amalgam-Plugger-for-Precise-Dental-Condensation-and-Placement.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-54/1783331289020-Best-Amalgam-Plugger-for-Precise-Dental-Condensation-and-Placement.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-55",
+                                    "name": "Dental Amalgam Instrument for Precise Condensation and Restorative Procedures",
+                                    "description": "Sizes: 11μm, 20μm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-55/1783331304661-Dental-Amalgam-Instrument-for-Precise-Condensation-and-Restorative-Procedures.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-55/1783331304661-Dental-Amalgam-Instrument-for-Precise-Condensation-and-Restorative-Procedures.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes: 11μm, 20μm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-56",
+                                    "name": "Dental Amalgam Plugger for Precise Condensation and Restorative Procedures",
+                                    "description": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-56/1783331325669-Dental-Amalgam-Plugger-for-Precise-Condensation-and-Restorative-Procedures.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-56/1783331325669-Dental-Amalgam-Plugger-for-Precise-Condensation-and-Restorative-Procedures.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-57",
+                                    "name": "Orthodontic Amalgam Plugger for Precise Condensation and Material Placement",
+                                    "description": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-57/1783331345460-Orthodontic-Amalgam-Plugger-for-Precise-Condensation-and-Material-Placement.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/amalgam-pluggers/products/ZT-22-57/1783331345460-Orthodontic-Amalgam-Plugger-for-Precise-Condensation-and-Material-Placement.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sizes :1mm - 1.5mm, 1.5mm - 2.5mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         },
                         {
                             "slug": "matrix-bands-retainers",
                             "name": "Matrix Bands & Retainers",
                             "description": "Matrix Bands & Retainers are restorative instruments designed to support and stabilize matrix bands during restorative procedures. They help achieve proper tooth contour, contact, and accurate placement of restorative materials.\n",
-                            "products": []
-                        },
-                        {
-                            "slug": "composite-instruments",
-                            "name": "Composite Instruments",
-                            "description": "Composite Instruments are precision restorative instruments designed for the placement, shaping, and contouring of composite restorative materials. They provide excellent control for accurate adaptation and smooth, aesthetic restorations.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-22-58",
+                                    "name": "Toffelmeyer Matrix Retainer Adult Angled",
+                                    "description": "Toffelmeyer Matrix Retainer Adult Angled",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-58/1783332917614-Toffelmeyer-Matrix-Retainer-Adult-Angled.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-58/1783332917614-Toffelmeyer-Matrix-Retainer-Adult-Angled.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Toffelmeyer Matrix Retainer Adult Angled",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-59",
+                                    "name": "Toffelmeyer Matrix Retainer Adult Universal",
+                                    "description": "Toffelmeyer Matrix Retainer Adult Universal",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-59/1783332960276-Toffelmeyer-Matrix-Retainer-Adult-Universal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-59/1783332960276-Toffelmeyer-Matrix-Retainer-Adult-Universal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Toffelmeyer Matrix Retainer Adult Universal",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-60",
+                                    "name": "Toffelmeyer Matrix Retainer Child Universal",
+                                    "description": "Toffelmeyer Matrix Retainer Child Universal",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-60/1783332998162-Toffelmeyer-Matrix-Retainer-Child-Universal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-60/1783332998162-Toffelmeyer-Matrix-Retainer-Child-Universal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Toffelmeyer Matrix Retainer Child Universal",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-61",
+                                    "name": "Tofflemire Retainer Matrix",
+                                    "description": "Tofflemire Retainer Matrix",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-61/1783333020270-Tofflemire-Retainer-Matrix.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-61/1783333020270-Tofflemire-Retainer-Matrix.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Tofflemire Retainer Matrix",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-62",
+                                    "name": "Matrix Retainer Universal",
+                                    "description": "Matrix Retainer Universal",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-62/1783333078566-Matrix-Retainer-Universal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-62/1783333078566-Matrix-Retainer-Universal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Matrix Retainer Universal",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-63",
+                                    "name": "Matrix Bands Tofflemeyer Universal",
+                                    "description": "Matrix Bands Tofflemeyer Universal",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-63/1783333120121-Matrix-Bands-Tofflemeyer-Universal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-63/1783333120121-Matrix-Bands-Tofflemeyer-Universal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Matrix Bands Tofflemeyer Universal",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-64",
+                                    "name": "Matrix Bands Tofflemeyer Broad",
+                                    "description": "Matrix Bands Tofflemeyer Broad",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-64/1783333148179-Matrix-Bands-Tofflemeyer-Broad.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-64/1783333148179-Matrix-Bands-Tofflemeyer-Broad.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Matrix Bands Tofflemeyer Broad",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-65",
+                                    "name": "Matrix Bands Junior Tofflemeyer Universal",
+                                    "description": "Matrix Bands Junior Tofflemeyer Universal",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-65/1783333180676-Matrix-Bands-Junior-Tofflemeyer-Universal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-65/1783333180676-Matrix-Bands-Junior-Tofflemeyer-Universal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Matrix Bands Junior Tofflemeyer Universal",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-66",
+                                    "name": "Matrix Band Retainer",
+                                    "description": "Matrix Band Retainer",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-66/1783333203355-Matrix-Band-Retainer.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-66/1783333203355-Matrix-Band-Retainer.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Matrix Band Retainer",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-67",
+                                    "name": "Matrix Band and Retainer",
+                                    "description": "Matrix Band and Retainer",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-67/1783333242867-Matrix-Band-and-Retainer.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-67/1783333242867-Matrix-Band-and-Retainer.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Matrix Band and Retainer",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-68",
+                                    "name": "Matrix Bands Junior Tofflemeyer Narrow",
+                                    "description": "Matrix Bands Junior Tofflemeyer Narrow",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-68/1783333264501-Matrix-Bands-Junior-Tofflemeyer-Narrow.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-68/1783333264501-Matrix-Bands-Junior-Tofflemeyer-Narrow.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Matrix Bands Junior Tofflemeyer Narrow",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-69",
+                                    "name": "Matrix Bands Junior Tofflemeyer Broad",
+                                    "description": "Matrix Bands Junior Tofflemeyer Broad",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-69/1783333285204-Matrix-Bands-Junior-Tofflemeyer-Broad.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-69/1783333285204-Matrix-Bands-Junior-Tofflemeyer-Broad.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Matrix Bands Junior Tofflemeyer Broad",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-70",
+                                    "name": "Henry Schein Tofflemire Matrix Retainer Universal",
+                                    "description": "Henry Schein Tofflemire Matrix Retainer Universal",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-70/1783333305878-Henry-Schein-Tofflemire-Matrix-Retainer-Universal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/matrix-bands-retainers/products/ZT-22-70/1783333305878-Henry-Schein-Tofflemire-Matrix-Retainer-Universal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Henry Schein Tofflemire Matrix Retainer Universal",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         },
                         {
                             "slug": "cavity-preparation-instruments",
                             "name": "Cavity Preparation Instruments",
                             "description": "Cavity Preparation Instruments are precision restorative instruments designed for shaping, refining, and preparing tooth cavities prior to restorative treatment. They provide accuracy and control for efficient cavity preparation.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-22-71",
+                                    "name": "Cavity Preparation 29 Mesial",
+                                    "description": "Size: 2mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-71/1783333523656-Cavity-Preparation-29-Mesial.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-71/1783333523656-Cavity-Preparation-29-Mesial.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-72",
+                                    "name": "Cavity Preparation Black Distal",
+                                    "description": "Size: 2mm, 4mm\n",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-72/1783333660419-Cavity-Preparation-Black-Distal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-72/1783333660419-Cavity-Preparation-Black-Distal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 2mm, 4mm\n",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-73",
+                                    "name": "Cavity Preparation Black Mesial",
+                                    "description": "Size:1.5mm, 2mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-73/1783334177397-Cavity-Preparation-Black-Mesial.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-73/1783334177397-Cavity-Preparation-Black-Mesial.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size:1.5mm, 2mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-74",
+                                    "name": "Cavity Preparation Black",
+                                    "description": "Size:1.5mm, 2mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-74/1783334213965-Cavity-Preparation-Black.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-74/1783334213965-Cavity-Preparation-Black.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size:1.5mm, 2mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-75",
+                                    "name": "Cavity Preparation Distal",
+                                    "description": "Size:1.5mm, 2mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-75/1783334257389-Cavity-Preparation-Distal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-75/1783334257389-Cavity-Preparation-Distal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size:1.5mm, 2mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-76",
+                                    "name": "Cavity Preparation Wedelstaet",
+                                    "description": "Size:1.5mm, 2mm",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-76/1783334311437-Cavity-Preparation-Wedelstaet.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-76/1783334311437-Cavity-Preparation-Wedelstaet.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size:1.5mm, 2mm",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-77",
+                                    "name": "Dental Cavity Preparation Distal",
+                                    "description": "Size: 26 distal",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-77/1783334359743-Dental-Cavity-Preparation-Distal.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-77/1783334359743-Dental-Cavity-Preparation-Distal.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 26 distal",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-22-78",
+                                    "name": "Dental Cavity Preparation Wedelstaet",
+                                    "description": "Size: 5/6(15-15-3)",
+                                    "image": "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-78/1783334419324-Dental-Cavity-Preparation-Wedelstaet.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/restorative/subsubcategories/cavity-preparation-instruments/products/ZT-22-78/1783334419324-Dental-Cavity-Preparation-Wedelstaet.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Size: 5/6(15-15-3)",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -17722,7 +18885,143 @@
                             "slug": "implant-instruments-kits",
                             "name": "Implant Instruments & Kits",
                             "description": "Dental Implant Instruments & Kits are specialized surgical instruments designed to support dental implant procedures with precision and efficiency. They provide the essential tools required for accurate implant placement and reliable clinical performance.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-23-01",
+                                    "name": "21 Pcs Dental Implant Kit with Sterilization Cassette - Implant Surgery Instrument Set",
+                                    "description": "Dental Implant Kit (21 Pieces) is designed for implant placement, bone expansion, sinus lift, and ridge splitting procedures. The comprehensive set includes osteotomes, bone spreaders, sinus lift instruments, ridge-splitting chisels, a bone well, mallet, and a sterilization cassette for organized clinical use. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-01/1783852963800-21-Pcs-Dental-Implant-Kit-with-Sterilization-Cassette---Implant-Surgery-Instrument-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-01/1783852963800-21-Pcs-Dental-Implant-Kit-with-Sterilization-Cassette---Implant-Surgery-Instrument-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Implant Kit (21 Pieces) is designed for implant placement, bone expansion, sinus lift, and ridge splitting procedures. The comprehensive set includes osteotomes, bone spreaders, sinus lift instruments, ridge-splitting chisels, a bone well, mallet, and a sterilization cassette for organized clinical use. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-23-02",
+                                    "name": "15 Pcs Basic Dental Implant Kit with Sterilization Cassette - Oral Surgery Instrument Set",
+                                    "description": "Dental Implant Kit (15 Pieces) is designed for essential implant surgery preparation, bone expansion, and ridge splitting procedures. The set includes osteotomes with stoppers, bone spreaders, ridge-splitting chisels, a mallet, and a sterilization cassette for organized clinical use. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-02/1783853942826-15-Pcs-Basic-Dental-Implant-Kit-with-Sterilization-Cassette---Oral-Surgery-Instrument-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-02/1783853942826-15-Pcs-Basic-Dental-Implant-Kit-with-Sterilization-Cassette---Oral-Surgery-Instrument-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Implant Kit (15 Pieces) is designed for essential implant surgery preparation, bone expansion, and ridge splitting procedures. The set includes osteotomes with stoppers, bone spreaders, ridge-splitting chisels, a mallet, and a sterilization cassette for organized clinical use. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-23-03",
+                                    "name": "Dental Implant Guide Kit - Stainless Steel Implant Surgery Guide Instrument Set",
+                                    "description": "Dental Implant Guide Kit is designed for accurate implant site preparation and guided implant placement during surgical procedures. The comprehensive set provides precise instrument guidance, controlled handling, and organized workflow for predictable implant outcomes. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-03/1783854146145-Dental-Implant-Guide-Kit---Stainless-Steel-Implant-Surgery-Guide-Instrument-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-03/1783854146145-Dental-Implant-Guide-Kit---Stainless-Steel-Implant-Surgery-Guide-Instrument-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Implant Guide Kit is designed for accurate implant site preparation and guided implant placement during surgical procedures. The comprehensive set provides precise instrument guidance, controlled handling, and organized workflow for predictable implant outcomes. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-23-04",
+                                    "name": "Dental Implant Surgery Kit - PRF Box, Bone Mixing Bowl and Implant Procedure Instruments",
+                                    "description": "Dental Implant Surgery Kit is designed to support implant placement, PRF handling, bone graft preparation, and surgical procedures. The set may include a bone mixing bowl, PRF box, dressing tweezers, Goldman Fox scissors, Noyes scissors, TC cutter, and other essential implant instruments. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-04/1783854335255-Dental-Implant-Surgery-Kit---PRF-Box_-Bone-Mixing-Bowl-and-Implant-Procedure-Instruments.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-04/1783854335255-Dental-Implant-Surgery-Kit---PRF-Box_-Bone-Mixing-Bowl-and-Implant-Procedure-Instruments.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Implant Surgery Kit is designed to support implant placement, PRF handling, bone graft preparation, and surgical procedures. The set may include a bone mixing bowl, PRF box, dressing tweezers, Goldman Fox scissors, Noyes scissors, TC cutter, and other essential implant instruments. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-23-05",
+                                    "name": "Dental Osteotomes Convex Instrument Set – Implant Bone Expansion & Sinus Lift Kit",
+                                    "description": "Dental Osteotomes Convex Instrument Set is designed for bone expansion, ridge preparation, and sinus lift procedures during dental implant surgery. The set includes convex osteotomes in multiple sizes for controlled, atraumatic bone manipulation and precise implant site preparation. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-05/1783854427014-Dental-Osteotomes-Convex-Instrument-Set-_-Implant-Bone-Expansion-_-Sinus-Lift-Kit.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-05/1783854427014-Dental-Osteotomes-Convex-Instrument-Set-_-Implant-Bone-Expansion-_-Sinus-Lift-Kit.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Osteotomes Convex Instrument Set is designed for bone expansion, ridge preparation, and sinus lift procedures during dental implant surgery. The set includes convex osteotomes in multiple sizes for controlled, atraumatic bone manipulation and precise implant site preparation. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-23-06",
+                                    "name": "Dental Bone Expander Kit - Implant Surgery Bone Expansion Instrument Set",
+                                    "description": "Dental Bone Expander Kit is designed for controlled bone expansion and ridge preparation during dental implant surgery. The comprehensive set includes essential bone expansion instruments for precise implant site preparation and atraumatic bone manipulation. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-06/1783854524760-Dental-Bone-Expander-Kit---Implant-Surgery-Bone-Expansion-Instrument-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-06/1783854524760-Dental-Bone-Expander-Kit---Implant-Surgery-Bone-Expansion-Instrument-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Bone Expander Kit is designed for controlled bone expansion and ridge preparation during dental implant surgery. The comprehensive set includes essential bone expansion instruments for precise implant site preparation and atraumatic bone manipulation. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-23-08",
+                                    "name": "16 Pcs Dental Implant Drills Kit - Implant Surgical Drill and Ratchet Wrench Set",
+                                    "description": "Dental Implant Drills Kit (16 Pieces) is designed for precise implant site preparation and controlled drilling during dental implant surgery. The set includes implant drills and a ratchet wrench to support accurate, efficient surgical workflows. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-08/1783854599567-16-Pcs-Dental-Implant-Drills-Kit---Implant-Surgical-Drill-and-Ratchet-Wrench-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-08/1783854599567-16-Pcs-Dental-Implant-Drills-Kit---Implant-Surgical-Drill-and-Ratchet-Wrench-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Implant Drills Kit (16 Pieces) is designed for precise implant site preparation and controlled drilling during dental implant surgery. The set includes implant drills and a ratchet wrench to support accurate, efficient surgical workflows. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-23-09",
+                                    "name": "50 Pcs Dental Orthodontic Implant Kit - Implant Placement and Removal Tools Set",
+                                    "description": "Dental Orthodontic Implant Kit (50 Pieces) is designed for implant placement, implant removal, and a wide range of clinical surgical procedures. The comprehensive 50-piece set includes essential implant instruments for precise handling, efficient workflows, and organized surgical preparation. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-09/1783854657262-50-Pcs-Dental-Orthodontic-Implant-Kit---Implant-Placement-and-Removal-Tools-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-09/1783854657262-50-Pcs-Dental-Orthodontic-Implant-Kit---Implant-Placement-and-Removal-Tools-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Orthodontic Implant Kit (50 Pieces) is designed for implant placement, implant removal, and a wide range of clinical surgical procedures. The comprehensive 50-piece set includes essential implant instruments for precise handling, efficient workflows, and organized surgical preparation. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-23-10",
+                                    "name": "Dental Guided Kit - Stainless Steel Implant Surgery Guide Kit",
+                                    "description": "Dental Guided Implant Kit is designed for accurate guided implant placement and efficient surgical workflows during dental implant procedures. The comprehensive set includes essential reusable instruments for precise implant site preparation, controlled handling, and organized clinical use. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                    "image": "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-10/1783854708618-Dental-Guided-Kit---Stainless-Steel-Implant-Surgery-Guide-Kit.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/implantology/subsubcategories/implant-instruments-kits/products/ZT-23-10/1783854708618-Dental-Guided-Kit---Stainless-Steel-Implant-Surgery-Guide-Kit.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Guided Implant Kit is designed for accurate guided implant placement and efficient surgical workflows during dental implant procedures. The comprehensive set includes essential reusable instruments for precise implant site preparation, controlled handling, and organized clinical use. Ideal for implantology, oral surgery, and dental implant procedures.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -17735,7 +19034,293 @@
                             "slug": "impression-trays",
                             "name": "Impression Trays",
                             "description": "Impression Trays are dental instruments designed to support accurate dental impressions by securely holding impression materials during the impression-taking process. They provide stability for precise and reliable results.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-24-01",
+                                    "name": "Perforated Mouth Impression Tray – German Stainless Steel Dental Impression Tray in Upper and Lower Small, Medium, and Large",
+                                    "description": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-01/1783335584948-Perforated-Mouth-Impression-Tray-_-German-Stainless-Steel-Dental-Impression-Tray-in-Upper-and-Lower-Small_-Medium_-and-Large.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-01/1783335584948-Perforated-Mouth-Impression-Tray-_-German-Stainless-Steel-Dental-Impression-Tray-in-Upper-and-Lower-Small_-Medium_-and-Large.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-02",
+                                    "name": "Perforated Impression Tray for Mouth – German Stainless Steel Stock Tray for Complete Denture and Edentulous Arch Impressions",
+                                    "description": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-02/1783335751027-Perforated-Impression-Tray-for-Mouth-_-German-Stainless-Steel-Stock-Tray-for-Complete-Denture-and-Edentulous-Arch-Impressions.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-02/1783335751027-Perforated-Impression-Tray-for-Mouth-_-German-Stainless-Steel-Stock-Tray-for-Complete-Denture-and-Edentulous-Arch-Impressions.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-03",
+                                    "name": "Perforated Impression Tray Multiple Sizes",
+                                    "description": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-03/1783335823372-Perforated-Impression-Tray-Multiple-Sizes.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-03/1783335823372-Perforated-Impression-Tray-Multiple-Sizes.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-04",
+                                    "name": "Perforated Impression Tray – Surgical-Grade German Stainless Steel Dental Tray in Upper Lower S, M, L with Complete Set Option",
+                                    "description": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S, Complete set.",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-04/1783335901729-Perforated-Impression-Tray-_-Surgical-Grade-German-Stainless-Steel-Dental-Tray-in-Upper-Lower-S_-M_-L-with-Complete-Set-Option.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-04/1783335901729-Perforated-Impression-Tray-_-Surgical-Grade-German-Stainless-Steel-Dental-Tray-in-Upper-Lower-S_-M_-L-with-Complete-Set-Option.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S, Complete set.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-05",
+                                    "name": "Perforated Impression Tray Multiple Sizes – German Stainless Steel Dental Tray in Upper Lower Small, Medium, and Large",
+                                    "description": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-05/1783335970797-Perforated-Impression-Tray-Multiple-Sizes-_-German-Stainless-Steel-Dental-Tray-in-Upper-Lower-Small_-Medium_-and-Large.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-05/1783335970797-Perforated-Impression-Tray-Multiple-Sizes-_-German-Stainless-Steel-Dental-Tray-in-Upper-Lower-Small_-Medium_-and-Large.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-06",
+                                    "name": "Non Perforated Impression Tray",
+                                    "description": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-06/1783336031764-Non-Perforated-Impression-Tray.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-06/1783336031764-Non-Perforated-Impression-Tray.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-07",
+                                    "name": "Mouth Impression Tray",
+                                    "description": "Mouth Impression Tray",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-07/1783336236778-Mouth-Impression-Tray.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-07/1783336236778-Mouth-Impression-Tray.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Mouth Impression Tray",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-08",
+                                    "name": "Impression Tray 6pcs Set",
+                                    "description": "Impression Tray 6pcs Set",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-08/1783336287790-Impression-Tray-6pcs-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-08/1783336287790-Impression-Tray-6pcs-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Impression Tray 6pcs Set",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-09",
+                                    "name": "Types of Impression Trays",
+                                    "description": "Types of Impression Trays",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-09/1783336330674-Types-of-Impression-Trays.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-09/1783336330674-Types-of-Impression-Trays.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Types of Impression Trays",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-10",
+                                    "name": "Triple Tray Impression",
+                                    "description": "Triple Tray Impression",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-10/1783336377238-Triple-Tray-Impression.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-10/1783336377238-Triple-Tray-Impression.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Triple Tray Impression",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-11",
+                                    "name": "Stock Tray",
+                                    "description": "Stock Tray",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-11/1783336435622-Stock-Tray.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-11/1783336435622-Stock-Tray.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Stock Tray",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-12",
+                                    "name": "Impression Tray Set",
+                                    "description": "Impression Tray Set",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-12/1783336494374-Impression-Tray-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-12/1783336494374-Impression-Tray-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Impression Tray Set",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-13",
+                                    "name": "Dental Impression Tray Set",
+                                    "description": "Dental Impression Tray Set",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-13/1783336531872-Dental-Impression-Tray-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-13/1783336531872-Dental-Impression-Tray-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Impression Tray Set",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-14",
+                                    "name": "Impression Dental Tray Set",
+                                    "description": "Impression Dental Tray Set",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-14/1783336567016-Impression-Dental-Tray-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-14/1783336567016-Impression-Dental-Tray-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Impression Dental Tray Set",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-15",
+                                    "name": "Impression Tray Stainless Steel",
+                                    "description": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-15/1783336601772-Impression-Tray-Stainless-Steel.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-15/1783336601772-Impression-Tray-Stainless-Steel.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-16",
+                                    "name": "Impression Tray Perforated",
+                                    "description": "Impression Tray Perforated",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-16/1783336635999-Impression-Tray-Perforated.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-16/1783336635999-Impression-Tray-Perforated.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Impression Tray Perforated",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-17",
+                                    "name": "Impression Tray Non Perforated",
+                                    "description": "Impression Tray Non Perforated",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-17/1783336686678-Impression-Tray-Non-Perforated.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-17/1783336686678-Impression-Tray-Non-Perforated.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Impression Tray Non Perforated",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-18",
+                                    "name": "Impression Plastic Impression Tray",
+                                    "description": "Impression Plastic Impression Tray",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-18/1783336726696-Impression-Plastic-Impression-Tray.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-18/1783336726696-Impression-Plastic-Impression-Tray.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Impression Plastic Impression Tray",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-24-19",
+                                    "name": "Half Side Impression Tray",
+                                    "description": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                    "image": "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-19/1783336796315-Half-Side-Impression-Tray.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/prosthodontics/subsubcategories/impression-trays/products/ZT-24-19/1783336796315-Half-Side-Impression-Tray.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Available in: Shape Lower L, Shape Lower M, Shape Lower S, Shape Upper L,Shape Upper M, Shape Upper S",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -17748,7 +19333,53 @@
                             "slug": "lab-instruments",
                             "name": "Lab Instruments",
                             "description": "Lab Instruments are precision tools designed to support a wide range of dental laboratory procedures, including model fabrication, finishing, and appliance adjustment. They provide accuracy, efficiency, and reliable performance.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-25-01",
+                                    "name": "Dental Lab Equipment Wax Carving Tools Set",
+                                    "description": "Dental Wax Carving Kit (10 Pieces) is designed for precise waxing, carving, shaping, and contouring in dental laboratory procedures. The set includes P.K. Thomas Carvers, Roach Carvers, Lecron Carvers, Wax Spatulas, and Wax Knives, with most instruments featuring double-ended designs for greater versatility. Ideal for prosthodontic, restorative, and dental laboratory applications.",
+                                    "image": "/images/categories/dental-instruments/subcategories/laboratory/subsubcategories/lab-instruments/products/ZT-25-01/1783337229239-Dental-Lab-Equipment-Wax-Carving-Tools-Set.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/laboratory/subsubcategories/lab-instruments/products/ZT-25-01/1783337229239-Dental-Lab-Equipment-Wax-Carving-Tools-Set.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Wax Carving Kit (10 Pieces) is designed for precise waxing, carving, shaping, and contouring in dental laboratory procedures. The set includes P.K. Thomas Carvers, Roach Carvers, Lecron Carvers, Wax Spatulas, and Wax Knives, with most instruments featuring double-ended designs for greater versatility. Ideal for prosthodontic, restorative, and dental laboratory applications.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-25-02",
+                                    "name": "Dental Lab Wax Carver Instrument Kit",
+                                    "description": "Dental Laboratory Wax Carving Kit (10 Pieces) is designed for precise wax carving, shaping, and contouring in dental laboratory procedures. The 10-piece set includes a variety of carving tools with distinct cutting shapes for both rough wax reduction and intricate detailing of crowns, bridges, dentures, and other prosthetic restorations. Ideal for prosthodontic, restorative, and dental laboratory applications.",
+                                    "image": "/images/categories/dental-instruments/subcategories/laboratory/subsubcategories/lab-instruments/products/ZT-25-02/1783337316310-Dental-Lab-Wax-Carver-Instrument-Kit.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/laboratory/subsubcategories/lab-instruments/products/ZT-25-02/1783337316310-Dental-Lab-Wax-Carver-Instrument-Kit.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Laboratory Wax Carving Kit (10 Pieces) is designed for precise wax carving, shaping, and contouring in dental laboratory procedures. The 10-piece set includes a variety of carving tools with distinct cutting shapes for both rough wax reduction and intricate detailing of crowns, bridges, dentures, and other prosthetic restorations. Ideal for prosthodontic, restorative, and dental laboratory applications.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-25-03",
+                                    "name": "Dental Laboratory Technicians Kit",
+                                    "description": "Dental Laboratory Technicians' Kit is designed for precise fabrication, finishing, and adjustment of dental prosthetics and laboratory restorations. The comprehensive kit includes essential instruments for carving, shaping, trimming, contouring, and detailed laboratory work with accuracy and efficiency. Ideal for dental laboratories, prosthodontic procedures, and technician training.",
+                                    "image": "/images/categories/dental-instruments/subcategories/laboratory/subsubcategories/lab-instruments/products/ZT-25-03/1783337394858-Dental-Laboratory-Technicians-Kit.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/laboratory/subsubcategories/lab-instruments/products/ZT-25-03/1783337394858-Dental-Laboratory-Technicians-Kit.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Laboratory Technicians' Kit is designed for precise fabrication, finishing, and adjustment of dental prosthetics and laboratory restorations. The comprehensive kit includes essential instruments for carving, shaping, trimming, contouring, and detailed laboratory work with accuracy and efficiency. Ideal for dental laboratories, prosthodontic procedures, and technician training.",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -17761,7 +19392,98 @@
                             "slug": "sterilization-cassettes-trays",
                             "name": "Sterilization Cassettes & Trays",
                             "description": "Sterilization Cassettes & Trays are designed to securely organize, protect, and sterilize dental instruments. They facilitate efficient instrument handling, storage, and repeated sterilization while maintaining clinical workflow.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-26-01",
+                                    "name": "Dental Instruments Scalers Tray",
+                                    "description": "Scalers Sterilization Tray Lock",
+                                    "image": "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-01/1783337502014-Scalers-Sterilization-Tray-Lock.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-01/1783337502014-Scalers-Sterilization-Tray-Lock.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Scalers Sterilization Tray Lock",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-26-03",
+                                    "name": "Scalers Casset",
+                                    "description": "Scalers_Casset",
+                                    "image": "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-03/1783337595863-Scalers_Casset.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-03/1783337595863-Scalers_Casset.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Scalers_Casset",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-26-02",
+                                    "name": "Scalers Sterilization Tray",
+                                    "description": "Scalers Sterilization Tray",
+                                    "image": "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-02/1783337645509-Scalers-Sterilization-Tray.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-02/1783337645509-Scalers-Sterilization-Tray.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Scalers Sterilization Tray",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-26-04",
+                                    "name": "Dental Instruments Scalers Tray",
+                                    "description": "Dental Instruments Scalers Tray",
+                                    "image": "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-04/1783337672418-Dental-Instruments-Scalers-Tray.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-04/1783337672418-Dental-Instruments-Scalers-Tray.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Dental Instruments Scalers Tray",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-26-05",
+                                    "name": "Sterilization Surgical Tray",
+                                    "description": "Sterilization Surgical Tray",
+                                    "image": "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-05/1783337712380-Sterilization-Surgical-Tray.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-05/1783337712380-Sterilization-Surgical-Tray.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Sterilization Surgical Tray",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-26-06",
+                                    "name": "Wire Mesh Scalers Sterilization Box",
+                                    "description": "Wire Mesh Scalers Sterilization Box",
+                                    "image": "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-06/1783337737191-Wire-Mesh-Scalers-Sterilization-Box.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/sterilization/subsubcategories/sterilization-cassettes-trays/products/ZT-26-06/1783337737191-Wire-Mesh-Scalers-Sterilization-Box.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Wire Mesh Scalers Sterilization Box",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -17774,7 +19496,113 @@
                             "slug": "irrigation-cannulas",
                             "name": "Irrigation Cannulas",
                             "description": "Irrigation Cannulas are precision instruments designed for the controlled delivery of irrigation solutions during dental and surgical procedures. They provide accurate fluid placement for effective cleaning and improved procedural efficiency.\n",
-                            "products": []
+                            "products": [
+                                {
+                                    "id": "ZT-27-01",
+                                    "name": "Troutman Alpha Chymotrypsin Cannula",
+                                    "description": "Troutman Alpha Chymotrypsin Cannula",
+                                    "image": "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-01/1783337825727-Troutman-Alpha-Chymotrypsin-Cannula.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-01/1783337825727-Troutman-Alpha-Chymotrypsin-Cannula.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Troutman Alpha Chymotrypsin Cannula",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-27-02",
+                                    "name": "Randolph Cyclodialysis Front Cannula",
+                                    "description": "Randolph Cyclodialysis Front Cannula",
+                                    "image": "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-02/1783337862508-Randolph-Cyclodialysis-Front-Cannula.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-02/1783337862508-Randolph-Cyclodialysis-Front-Cannula.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Randolph Cyclodialysis Front Cannula",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-27-03",
+                                    "name": "Morrison Aspirating Cannula",
+                                    "description": "Morrison Aspirating Cannula",
+                                    "image": "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-03/1783337877166-Morrison-Aspirating-Cannula.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-03/1783337877166-Morrison-Aspirating-Cannula.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Morrison Aspirating Cannula",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-27-04",
+                                    "name": "Jensen Capsule Scraper Polisher",
+                                    "description": "Jensen Capsule Scraper Polisher",
+                                    "image": "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-04/1783337906470-Jensen-Capsule-Scraper-Polisher.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-04/1783337906470-Jensen-Capsule-Scraper-Polisher.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Jensen Capsule Scraper Polisher",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-27-05",
+                                    "name": "Bishop Harmon Anterior Chamber Irrigator – Ophthalmic Irrigation Instrument",
+                                    "description": "Bishop Harmon Anterior Chamber Irrigator – Ophthalmic Irrigation Instrument",
+                                    "image": "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-05/1783337929357-Bishop-Harmon-Anterior-Chamber-Irrigator-_-Ophthalmic-Irrigation-Instrument.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-05/1783337929357-Bishop-Harmon-Anterior-Chamber-Irrigator-_-Ophthalmic-Irrigation-Instrument.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Bishop Harmon Anterior Chamber Irrigator – Ophthalmic Irrigation Instrument",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-27-06",
+                                    "name": "Air Injection Cannulas Instrument for Precision Fluid and Air Delivery",
+                                    "description": "Air Injection Cannulas Instrument for Precision Fluid and Air Delivery",
+                                    "image": "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-06/1783337945424-Air-Injection-Cannulas-Instrument-for-Precision-Fluid-and-Air-Delivery.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-06/1783337945424-Air-Injection-Cannulas-Instrument-for-Precision-Fluid-and-Air-Delivery.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Air Injection Cannulas Instrument for Precision Fluid and Air Delivery",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                },
+                                {
+                                    "id": "ZT-27-07",
+                                    "name": "Air Injection Cannulas for Precision Surgical Air and Fluid Delivery",
+                                    "description": "Air Injection Cannulas for Precision Surgical Air and Fluid Delivery",
+                                    "image": "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-07/1783337979131-Air-Injection-Cannulas-for-Precision-Surgical-Air-and-Fluid-Delivery.jpg",
+                                    "images": [
+                                        "/images/categories/dental-instruments/subcategories/irrigation/subsubcategories/irrigation-cannulas/products/ZT-27-07/1783337979131-Air-Injection-Cannulas-for-Precision-Surgical-Air-and-Fluid-Delivery.jpg"
+                                    ],
+                                    "variants": [],
+                                    "details": {
+                                        "overview": "Air Injection Cannulas for Precision Surgical Air and Fluid Delivery",
+                                        "specifications": {},
+                                        "features": []
+                                    }
+                                }
+                            ]
                         }
                     ]
                 }
