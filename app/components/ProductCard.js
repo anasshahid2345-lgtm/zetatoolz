@@ -5,6 +5,12 @@ import Image from 'next/image';
 import { useState } from 'react';
 import { useCart } from '../context/CartContext';
 
+function stripHtml(html) {
+  if (!html) return '';
+  // Replace HTML tags with empty string
+  return html.replace(/<[^>]*>/g, '');
+}
+
 export default function ProductCard({ product }) {
   const { addToCart } = useCart();
   const [imgSrc, setImgSrc] = useState(
@@ -21,63 +27,63 @@ export default function ProductCard({ product }) {
     
     const subject = `Order Status & Tracking Request`;
     const body = `Hello,
-
-I would like to request an update on my recent order. Please find the order details below:
-
-Order Date: ${today}
-Product(s) Ordered: ${product.name}
-Article Number: ${product.id}
-
-Kindly share the current status of the order and the tracking information, if available.
-
-Thank you.
-
-Best regards,
-Customer`;
-
-    // Check if user is on mobile device
-    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-    
-    if (isMobile) {
-      // On mobile, use mailto link which opens the default email app
-      const mailtoURL = `mailto:info@zetatoolz.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-      window.location.href = mailtoURL;
-    } else {
-      // On desktop, use Gmail compose URL
-      const gmailURL = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent('info@zetatoolz.com')}&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-      window.open(gmailURL, '_blank');
-    }
-  };
-
-  return (
-    <div className="bg-white rounded-lg overflow-hidden border border-gray-200 hover:shadow-xl transition-shadow duration-300 flex flex-col h-full">
-      {/* Product Image */}
-      <Link href={`/products/${product.id}`} className="h-56 bg-gray-100 relative overflow-hidden group block">
-        <Image 
-          src={imgSrc} 
-          alt={product.name}
-          fill
-          unoptimized
-          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-          className="object-cover transition-transform duration-500 group-hover:scale-110"
-          onError={() => setImgSrc('https://placehold.co/400x400/f3f4f6/6b7280?text=No+Image')}
-        />
-      </Link>
-      
-      {/* Product Info */}
-      <div className="p-5 flex-1 flex flex-col">
-        <Link href={`/products/${product.id}`}>
-          <h3 className="text-lg font-bold text-gray-900 mb-2 line-clamp-2 min-h-[3.5rem] hover:text-cyan-600 transition-colors cursor-pointer">{product.name}</h3>
-        </Link>
-        
-        {/* Product ID Badge */}
-        <div className="mb-3">
-          <span className="inline-block text-xs font-medium text-gray-500 bg-gray-100 px-2.5 py-1 rounded-md border border-gray-200">
-            ID: {product.id}
-          </span>
-        </div>
-        
-        <p className="text-gray-600 text-sm mb-4 line-clamp-2 flex-grow">{product.description}</p>
+ 
+ I would like to request an update on my recent order. Please find the order details below:
+ 
+ Order Date: ${today}
+ Product(s) Ordered: ${product.name}
+ Article Number: ${product.id}
+ 
+ Kindly share the current status of the order and the tracking information, if available.
+ 
+ Thank you.
+ 
+ Best regards,
+ Customer`;
+ 
+     // Check if user is on mobile device
+     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+     
+     if (isMobile) {
+       // On mobile, use mailto link which opens the default email app
+       const mailtoURL = `mailto:info@zetatoolz.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+       window.location.href = mailtoURL;
+     } else {
+       // On desktop, use Gmail compose URL
+       const gmailURL = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent('info@zetatoolz.com')}&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+       window.open(gmailURL, '_blank');
+     }
+   };
+ 
+   return (
+     <div className="bg-white rounded-lg overflow-hidden border border-gray-200 hover:shadow-xl transition-shadow duration-300 flex flex-col h-full">
+       {/* Product Image */}
+       <Link href={`/products/${product.id}`} className="h-56 bg-gray-100 relative overflow-hidden group block">
+         <Image 
+           src={imgSrc} 
+           alt={product.name}
+           fill
+           unoptimized
+           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+           className="object-cover transition-transform duration-500 group-hover:scale-110"
+           onError={() => setImgSrc('https://placehold.co/400x400/f3f4f6/6b7280?text=No+Image')}
+         />
+       </Link>
+       
+       {/* Product Info */}
+       <div className="p-5 flex-1 flex flex-col">
+         <Link href={`/products/${product.id}`}>
+           <h3 className="text-lg font-bold text-gray-900 mb-2 line-clamp-2 min-h-[3.5rem] hover:text-cyan-600 transition-colors cursor-pointer">{product.name}</h3>
+         </Link>
+         
+         {/* Product ID Badge */}
+         <div className="mb-3">
+           <span className="inline-block text-xs font-medium text-gray-500 bg-gray-100 px-2.5 py-1 rounded-md border border-gray-200">
+             ID: {product.id}
+           </span>
+         </div>
+         
+         <p className="text-gray-600 text-sm mb-4 line-clamp-2 flex-grow">{stripHtml(product.description)}</p>
         
 
         

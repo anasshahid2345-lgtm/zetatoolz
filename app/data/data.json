@@ -17,15 +17,24 @@
                             "products": [
                                 {
                                     "id": "ZT-10-01",
+<<<<<<< HEAD
                                     "name": "Professional Barber Scissors",
                                     "description": "Available Sizes: 6.5\", 7.0\"/ \nAvailable Finishes: \n",
+=======
+                                    "name": "Barber Scissor",
+                                    "description": "<strong>Barber Scissor</strong>\n",
+>>>>>>> e84da952a08111e76c2d43e244d4b5b57801e4dd
                                     "image": "/images/categories/beauty-instruments/subcategories/barber-scissors/subsubcategories/stainless-steel-barber-scissors/products/ZT-10-01/1784111430151-image_664.jpg",
                                     "images": [
                                         "/images/categories/beauty-instruments/subcategories/barber-scissors/subsubcategories/stainless-steel-barber-scissors/products/ZT-10-01/1784111430151-image_664.jpg"
                                     ],
                                     "variants": [],
                                     "details": {
+<<<<<<< HEAD
                                         "overview": "Available Sizes: 6.5\", 7.0\"/ \nAvailable Finishes: \n",
+=======
+                                        "overview": "<strong>Barber Scissor</strong>\n",
+>>>>>>> e84da952a08111e76c2d43e244d4b5b57801e4dd
                                         "specifications": {},
                                         "features": []
                                     }

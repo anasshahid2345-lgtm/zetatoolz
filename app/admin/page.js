@@ -577,6 +577,58 @@ export default function AdminPage() {
     setLoading(false);
   };
 
+  const handleFormatTextarea = (field, formatType) => {
+    const textarea = document.getElementById(`product-${field}`);
+    if (!textarea) return;
+
+    const start = textarea.selectionStart;
+    const end = textarea.selectionEnd;
+    const text = textarea.value;
+    const selectedText = text.substring(start, end);
+
+    let replacement = '';
+    switch (formatType) {
+      case 'bold':
+        replacement = `<strong>${selectedText || 'bold text'}</strong>`;
+        break;
+      case 'italic':
+        replacement = `<em>${selectedText || 'italic text'}</em>`;
+        break;
+      case 'bullet':
+        if (selectedText) {
+          replacement = selectedText
+            .split('\n')
+            .map(line => line.trim().startsWith('•') ? line : `• ${line}`)
+            .join('\n');
+        } else {
+          replacement = '• ';
+        }
+        break;
+      case 'newline':
+        replacement = '<br>\n';
+        break;
+      case 'clear':
+        // Strip HTML tags
+        replacement = selectedText.replace(/<[^>]*>/g, '');
+        break;
+      default:
+        return;
+    }
+
+    const newValue = text.substring(0, start) + replacement + text.substring(end);
+    
+    setNewProduct(prev => ({
+      ...prev,
+      [field]: newValue
+    }));
+
+    // Focus and select the modified text
+    setTimeout(() => {
+      textarea.focus();
+      textarea.setSelectionRange(start, start + replacement.length);
+    }, 0);
+  };
+
   const startEditing = (catSlug, subSlug, subsubSlug, product) => {
     setEditingProduct(product);
     setNewProduct({
@@ -1306,26 +1358,130 @@ export default function AdminPage() {
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Description *</label>
+                <div className="flex justify-between items-center mb-2">
+                  <label className="block text-sm font-medium text-gray-700">Description *</label>
+                  <div className="flex gap-1 bg-gray-100 p-1 rounded-lg border border-gray-200">
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('description', 'bold')}
+                      className="px-2.5 py-1 text-xs font-bold text-gray-700 hover:bg-white hover:shadow-xs rounded transition-all cursor-pointer"
+                      title="Bold"
+                    >
+                      B
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('description', 'italic')}
+                      className="px-2.5 py-1 text-xs italic text-gray-700 hover:bg-white hover:shadow-xs rounded transition-all cursor-pointer"
+                      title="Italic"
+                    >
+                      I
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('description', 'bullet')}
+                      className="px-2 py-1 text-xs text-gray-700 hover:bg-white hover:shadow-xs rounded transition-all cursor-pointer flex items-center gap-0.5"
+                      title="Bullet Point"
+                    >
+                      • List
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('description', 'newline')}
+                      className="px-2 py-1 text-xs text-gray-700 hover:bg-white hover:shadow-xs rounded transition-all cursor-pointer"
+                      title="New Line"
+                    >
+                      ↵ Line
+                    </button>
+                    <span className="w-px bg-gray-300 mx-1"></span>
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('description', 'clear')}
+                      className="px-2 py-1 text-xs text-red-600 hover:bg-red-50 rounded transition-all cursor-pointer"
+                      title="Clear Formatting"
+                    >
+                      Clear
+                    </button>
+                  </div>
+                </div>
                 <textarea
+                  id="product-description"
                   value={newProduct.description}
                   onChange={(e) => setNewProduct({ ...newProduct, description: e.target.value })}
-                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-cyan-500 focus:border-transparent"
-                  rows="3"
-                  placeholder="Brief product description"
+                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-cyan-500 focus:border-transparent font-sans text-sm"
+                  rows="4"
+                  placeholder="Brief product description (HTML tags allowed)"
                   required
                 />
+                {newProduct.description && (
+                  <div className="mt-2 bg-gray-50 border border-gray-200 rounded-lg p-3">
+                    <span className="block text-xs font-semibold text-gray-500 mb-1 uppercase tracking-wider">Live Preview:</span>
+                    <span className="text-sm text-gray-700 block whitespace-pre-line leading-relaxed" dangerouslySetInnerHTML={{ __html: newProduct.description }} />
+                  </div>
+                )}
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Overview (optional)</label>
+                <div className="flex justify-between items-center mb-2">
+                  <label className="block text-sm font-medium text-gray-700">Overview (optional)</label>
+                  <div className="flex gap-1 bg-gray-100 p-1 rounded-lg border border-gray-200">
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('overview', 'bold')}
+                      className="px-2.5 py-1 text-xs font-bold text-gray-700 hover:bg-white hover:shadow-xs rounded transition-all cursor-pointer"
+                      title="Bold"
+                    >
+                      B
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('overview', 'italic')}
+                      className="px-2.5 py-1 text-xs italic text-gray-700 hover:bg-white hover:shadow-xs rounded transition-all cursor-pointer"
+                      title="Italic"
+                    >
+                      I
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('overview', 'bullet')}
+                      className="px-2 py-1 text-xs text-gray-700 hover:bg-white hover:shadow-xs rounded transition-all cursor-pointer flex items-center gap-0.5"
+                      title="Bullet Point"
+                    >
+                      • List
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('overview', 'newline')}
+                      className="px-2 py-1 text-xs text-gray-700 hover:bg-white hover:shadow-xs rounded transition-all cursor-pointer"
+                      title="New Line"
+                    >
+                      ↵ Line
+                    </button>
+                    <span className="w-px bg-gray-300 mx-1"></span>
+                    <button
+                      type="button"
+                      onClick={() => handleFormatTextarea('overview', 'clear')}
+                      className="px-2 py-1 text-xs text-red-600 hover:bg-red-50 rounded transition-all cursor-pointer"
+                      title="Clear Formatting"
+                    >
+                      Clear
+                    </button>
+                  </div>
+                </div>
                 <textarea
+                  id="product-overview"
                   value={newProduct.overview}
                   onChange={(e) => setNewProduct({ ...newProduct, overview: e.target.value })}
-                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-cyan-500 focus:border-transparent"
-                  rows="2"
-                  placeholder="Detailed overview (optional, defaults to description)"
+                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-cyan-500 focus:border-transparent font-sans text-sm"
+                  rows="3"
+                  placeholder="Detailed overview (optional, defaults to description, HTML tags allowed)"
                 />
+                {newProduct.overview && (
+                  <div className="mt-2 bg-gray-50 border border-gray-200 rounded-lg p-3">
+                    <span className="block text-xs font-semibold text-gray-500 mb-1 uppercase tracking-wider">Live Preview:</span>
+                    <span className="text-sm text-gray-700 block whitespace-pre-line leading-relaxed" dangerouslySetInnerHTML={{ __html: newProduct.overview }} />
+                  </div>
+                )}
               </div>
 
               {/* Specifications */}
@@ -1650,7 +1806,7 @@ export default function AdminPage() {
                     </div>
                   ) : (
                     <div className="text-center py-8 bg-gray-50 rounded-xl border border-dashed border-gray-200">
-                      <p className="text-sm text-gray-500 italic">No products matched "{searchQuery}"</p>
+                      <p className="text-sm text-gray-500 italic">No products matched &quot;{searchQuery}&quot;</p>
                     </div>
                   )}
                 </div>

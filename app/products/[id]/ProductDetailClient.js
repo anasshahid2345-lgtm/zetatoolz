@@ -221,7 +221,7 @@ Customer`;
             {/* Short Description */}
             <div>
               <h3 className="text-lg font-bold text-gray-900 mb-2">Product Overview</h3>
-              <p className="text-gray-700 leading-relaxed">{product.description}</p>
+              <span className="text-gray-700 leading-relaxed block whitespace-pre-line" dangerouslySetInnerHTML={{ __html: product.description || '' }} />
             </div>
 
             {/* Variants Selection */}
@@ -311,97 +311,18 @@ Customer`;
           </div>
         </div>
 
-        {/* Detailed Information Tabs */}
-        <div className="bg-white rounded-2xl shadow-lg border border-gray-200 overflow-hidden">
-          <div className="grid grid-cols-1 lg:grid-cols-3 divide-y lg:divide-y-0 lg:divide-x divide-gray-200">
-            {/* Product Details */}
-            <div className="p-8">
-              <div className="flex items-center gap-3 mb-6">
-                <div className="w-10 h-10 bg-cyan-100 rounded-lg flex items-center justify-center">
-                  <svg className="w-6 h-6 text-cyan-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                </div>
-                <h2 className="text-2xl font-bold text-gray-900">Product Details</h2>
-              </div>
-              <div className="space-y-4">
-                <p className="text-gray-700 leading-relaxed">
-                  {product.details?.overview || product.description}
-                </p>
-              </div>
+        {/* Detailed Information */}
+        <div className="bg-white rounded-2xl shadow-lg border border-gray-200 overflow-hidden p-8">
+          <div className="flex items-center gap-3 mb-6">
+            <div className="w-10 h-10 bg-cyan-100 rounded-lg flex items-center justify-center">
+              <svg className="w-6 h-6 text-cyan-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
             </div>
-
-            {/* Specifications */}
-            <div className="p-8 bg-gray-50">
-              <div className="flex items-center gap-3 mb-6">
-                <div className="w-10 h-10 bg-blue-100 rounded-lg flex items-center justify-center">
-                  <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
-                  </svg>
-                </div>
-                <h2 className="text-2xl font-bold text-gray-900">Specifications</h2>
-              </div>
-              <div className="space-y-3">
-                {product.details?.specifications ? (
-                  Object.entries(product.details.specifications).map(([key, value]) => (
-                    <div key={key} className="flex justify-between py-3 border-b border-gray-200 last:border-0">
-                      <span className="font-semibold text-gray-700">{key}:</span>
-                      <span className="text-gray-900">{value}</span>
-                    </div>
-                  ))
-                ) : (
-                  <>
-                    <div className="flex justify-between py-3 border-b border-gray-200">
-                      <span className="font-semibold text-gray-700">Material:</span>
-                      <span className="text-gray-900">Surgical Grade Stainless Steel</span>
-                    </div>
-                    <div className="flex justify-between py-3 border-b border-gray-200">
-                      <span className="font-semibold text-gray-700">Type:</span>
-                      <span className="text-gray-900">Professional Grade</span>
-                    </div>
-                  </>
-                )}
-              </div>
-            </div>
-
-            {/* Features & Benefits */}
-            <div className="p-8">
-              <div className="flex items-center gap-3 mb-6">
-                <div className="w-10 h-10 bg-green-100 rounded-lg flex items-center justify-center">
-                  <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                </div>
-                <h2 className="text-2xl font-bold text-gray-900">Features</h2>
-              </div>
-              <ul className="space-y-4">
-                {product.details?.features ? (
-                  product.details.features.map((feature, idx) => (
-                    <li key={idx} className="flex items-start gap-3">
-                      <div className="mt-1 w-5 h-5 rounded-full bg-green-100 flex items-center justify-center flex-shrink-0">
-                        <svg className="w-3 h-3 text-green-600" fill="currentColor" viewBox="0 0 20 20">
-                           <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                        </svg>
-                      </div>
-                      <div>
-                        <p className="font-semibold text-gray-900">{feature}</p>
-                      </div>
-                    </li>
-                  ))
-                ) : (
-                  <li className="flex items-start gap-3">
-                    <div className="mt-1 w-5 h-5 rounded-full bg-green-100 flex items-center justify-center flex-shrink-0">
-                      <svg className="w-3 h-3 text-green-600" fill="currentColor" viewBox="0 0 20 20">
-                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                      </svg>
-                    </div>
-                    <div>
-                      <p className="font-semibold text-gray-900">Professional Grade Quality</p>
-                    </div>
-                  </li>
-                )}
-              </ul>
-            </div>
+            <h2 className="text-2xl font-bold text-gray-900">Product Details</h2>
+          </div>
+          <div className="space-y-4">
+            <span className="text-gray-700 leading-relaxed block whitespace-pre-line text-base animate-fade-in" dangerouslySetInnerHTML={{ __html: product.details?.overview || product.description || '' }} />
           </div>
         </div>
 
